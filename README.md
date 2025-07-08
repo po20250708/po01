@@ -12,6 +12,6 @@
 安全性也是关键，避免访问有风险的网站。使用广告拦截插件和反病毒软件，可以有效保护你的隐私。为了更好的观看体验，建议使用大屏幕设备并确保网络连接稳定。
 总的来说，选择安全平台，享受高质量内容，并遵守法律规定，才能确保良好的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/po20250708/po01 ）</span>
 
 
